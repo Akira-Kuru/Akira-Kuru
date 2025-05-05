@@ -5,7 +5,7 @@ I'm **Akira**, a developer based in Switzerland 🇨🇭. I go by many names onl
 ## 🚀 About Me
 
 - 🧠 I think in [<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="16"/> Obsidian](https://obsidian.md)
-- 🗂️ I organize in [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" height="16"/> Notion](https://www.notion.so)
+- 🗂️ I work in [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" height="16"/> Notion](https://www.notion.so)
 - 💻 I use both **Arch Linux** and **Windows** — best of both worlds
 - 🔭 Currently working on streamlining my Arch setup with a custom postscript
 - 🌱 Learning **Godot** and **C#** to dive into game development
